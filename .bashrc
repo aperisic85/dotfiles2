@@ -1,0 +1,1 @@
+alias eb = "vim ~/.bashrc"
